@@ -1,0 +1,45 @@
+
+.section_height{
+    height: 80vh;
+}
+
+.fs-8 {
+font-size: 0.7rem;
+}
+
+  /* Track */
+::-webkit-scrollbar {
+  width: 10px; /* width of the scrollbar */
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #888888; /* color of the scrollbar handle */
+  border-radius: 5px; /* radius of the scrollbar handle */
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555; /* color of the scrollbar handle on hover */
+}
+
+
+.icon {
+  width: 20px;
+}
+
+.box {
+  /* inline-size: 200px; */
+  overflow-wrap: break-word;
+  max-inline-size:200px
+}
+
+.text-color-white {
+  color: white;
+}
+
+.chat-box-shadow {
+  box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.45) inset;
+}
+
+  
